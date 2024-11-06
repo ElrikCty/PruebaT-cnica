@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CardView dimensions -->
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+
+    <!-- ConstraintLayout padding inside CardView -->
+    <dimen name="constraint_layout_padding">12dp</dimen>
+
+    <!-- Image dimensions and margins -->
+    <dimen name="image_margin_end">16dp</dimen>
+    <dimen name="image_height">150dp</dimen>
+
+    <!-- Text dimensions -->
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen> <!-- For additional smaller text if needed -->
+
+    <!-- Text margins -->
+    <dimen name="text_margin_horizontal">8dp</dimen>
+    <dimen name="text_margin_bottom">4dp</dimen>
+
+    <!-- Additional padding or spacing if needed for uniformity -->
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+</resources>

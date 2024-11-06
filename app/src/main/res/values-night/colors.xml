@@ -1,0 +1,15 @@
+<resources>
+    <!-- Primary and Secondary Colors -->
+    <color name="colorPrimary">#4CAF50</color> <!-- Slightly brighter green for dark mode -->
+    <color name="colorPrimaryVariant">#388E3C</color> <!-- Dark green variant -->
+    <color name="colorSecondary">#FFB300</color> <!-- Soft amber -->
+
+    <!-- Background and Surface Colors -->
+    <color name="colorBackground">#121212</color> <!-- Dark background for night mode -->
+    <color name="colorSurface">#1E1E1E</color> <!-- Slightly lighter dark color for surfaces -->
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#FFFFFF</color> <!-- White for primary text -->
+    <color name="textSecondary">#B0B0B0</color> <!-- Light gray for secondary text -->
+    <color name="textOnSecondary">#000000</color> <!-- Black for text on secondary background -->
+</resources>

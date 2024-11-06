@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prueba Practica</string>
+    <string name="animal_image">Imagen</string>
+    <string name="favorite_icon">icon</string>
+</resources>
